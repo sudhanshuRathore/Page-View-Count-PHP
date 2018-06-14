@@ -3,6 +3,7 @@
 
 Coded by AeroPwn, pls no steal kthx
 MIT Licensed btw
+pls credit thx
 
 */
 
