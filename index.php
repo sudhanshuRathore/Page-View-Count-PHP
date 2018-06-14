@@ -1,4 +1,11 @@
 <?php
+/*
+
+Coded by AeroPwn, pls no steal kthx
+MIT Licensed btw
+
+*/
+
 $db = mysqli_connect('127.0.0.1','root','password','database_name');
 if (mysqli_connect_errno()) {
     printf("Connect failed: %s\n", mysqli_connect_error());
